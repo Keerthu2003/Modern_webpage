@@ -1,0 +1,157 @@
+.top
+{
+  background-color: #FCD8D4;
+  height: 500px;
+
+  padding-top: 100px;
+  position: relative;
+}
+.middle{
+  background-color: #F5C6AA;
+
+  font-family: 'Secular One', sans-serif;
+  padding-bottom: 1.5cm;
+}
+.bottom{
+  padding-top: 1.5cm;
+  background-color: #F38BA0;
+  height: 4cm;
+
+}
+
+.cloud1
+{
+  height: 100px;
+  position: absolute;
+  right: 6cm;
+  top: 50px;
+
+
+}
+.cloud2{
+  height: 100px;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+.cloud3{
+  height: 200px;
+  position: absolute;
+  top: 8cm;
+  left: 16cm;
+}
+.draw
+{
+  height: 5cm;
+  float: left;
+  margin-right: 2cm;
+
+}
+.Photography
+{
+  height: 5cm;
+  float: right;
+}
+.mid_div_logo
+{
+  padding-top:1.5cm;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+h1{
+  font-size: 90px;
+  margin: 0 auto;
+  color: #D62AD0;
+  font-family: 'Dancing Script', cursive;
+  font-weight: normal;
+}
+h2{
+  font-size: 30px;
+  color: #753422;
+  font-weight: normal;
+  padding-top: 1.5cm;
+
+}
+h3{
+  font-size: 20px;
+  color: #753422;
+  font-weight: normal;
+
+}
+
+.p1{
+  font-size: 40px;
+  color: #D62AD0;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: normal;
+}
+.p3
+{
+  width: 100%;
+
+}
+.p4{
+  width: 80%;
+
+}
+.p5
+{
+  padding-bottom: 1cm;
+}
+
+hr
+{
+  color: #A19882;
+  border-style: dotted;
+  border-top-width: 10px;
+  border-bottom-width: 0cm;
+  margin-top: 2cm;
+  width: 7%;
+
+}
+a{
+  padding-left: 1cm;
+  padding-right: 1cm;
+  font-size: 20px;
+  text-decoration: none;
+  color: #FDEFEF;
+}
+a:hover
+{
+  color: #171010;
+}
+
+body
+{
+  margin: 0;
+  text-align: center;
+}
+.btn {
+  background: #e31414;
+  background-image: -webkit-linear-gradient(top, #e31414, #b86d2b);
+  background-image: -moz-linear-gradient(top, #e31414, #b86d2b);
+  background-image: -ms-linear-gradient(top, #e31414, #b86d2b);
+  background-image: -o-linear-gradient(top, #e31414, #b86d2b);
+  background-image: linear-gradient(to bottom, #e31414, #b86d2b);
+  -webkit-border-radius: 18;
+  -moz-border-radius: 18;
+  border-radius: 18px;
+  font-family: Arial;
+  color: #f7f7f7;
+  font-size: 19px;
+  padding: 8px 20px 10px 20px;
+  border: solid #5dadde 0px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #81a348;
+  text-decoration: none;
+}
